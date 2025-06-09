@@ -1,22 +1,22 @@
 # Customer_Realtionship_Management-System
-#This is a Java-based CRM (Customer Relationship Management) desktop application built using Java Swing for the user interface and MySQL for data storage. The system allows administrators and sales staff to manage users, customers, sales orders, and transactions effectively.
+This is a Java-based CRM (Customer Relationship Management) desktop application built using Java Swing for the user interface and MySQL for data storage. The system allows administrators and sales staff to manage users, customers, sales orders, and transactions effectively.
 
 
 
 
 
 Features
-🔐 User login system with role-based access (Admin, Sales, Manager)
+ 🔐 User login system with role-based access (Admin, Sales, Manager)
 
-👤 Manage customers and salespeople (with photo & document uploads)
+ 👤 Manage customers and salespeople (with photo & document uploads)
 
-🧾 Track orders and transactions
+ 🧾 Track orders and transactions
 
-📊 View login history and activity logs
+ 📊 View login history and activity logs
 
-💾 Uses MySQL as backend database
+ 💾 Uses MySQL as backend database
 
-🎨 Clean, modern UI using custom themes and colors
+ 🎨 Clean, modern UI using custom themes and colors
 
 
 
@@ -24,15 +24,16 @@ Features
 
 
 Tech Stack
-Java Swing (UI)
+  
+    Java Swing (UI)
 
-MySQL (Database)
+    MySQL (Database)
 
-JDBC (Database connectivity)
+    JDBC (Database connectivity)
 
-JDK 22+
+    JDK 22+
 
-IntelliJ IDEA (Development environment)
+    IntelliJ IDEA (Development environment)
 
 
 
@@ -42,7 +43,7 @@ IntelliJ IDEA (Development environment)
 
 1.Clone the repository:
 
-git clone https://github.com/yourusername/CRM_System.git
+    git clone https://github.com/yourusername/CRM_System.git
 
 2.Import into IntelliJ IDEA or any Java IDE.
 
@@ -51,9 +52,9 @@ git clone https://github.com/yourusername/CRM_System.git
 
 🛠️ Database Setup
 
-Open MySQL Workbench or any MySQL client.
+    Open MySQL Workbench or any MySQL client.
 
-Run the crm.sql script from this repo to create tables and sample data.
+    Run the crm.sql script from this repo to create tables and sample data.
 
 
 📁 Folder Structure
