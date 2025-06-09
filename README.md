@@ -61,27 +61,28 @@ Run the crm.sql script from this repo to create tables and sample data.
 CRM_System/
 
 ├── src/
-│   └── CRMLogin.java
 
-│   └── CRMDashboard.java
+     │   └── CRMLogin.java
 
-│   └── DatabaseManager.java
+     │   └── CRMDashboard.java
+ 
+     │   └── DatabaseManager.java
 
-│   └── TestDBConnection.java
+     │   └── TestDBConnection.java
 
-│   └── Salesman.java
+     │   └── Salesman.java
 
-│   └── Customer.java
+     │   └── Customer.java
 
-│   └── Order.java
+     │   └── Order.java
 
-│   └── Transaction.java
+     │   └── Transaction.java
 
 ├── lib/
 
-│   └── mysql-connector-j-9.2.0.jar
+     │   └── mysql-connector-j-9.2.0.jar
 
-├── crm.sql
+     ├── crm.sql
 
 
 
