@@ -1,11 +1,12 @@
-# Customer_Realtionship_Management-System
-This is a Java-based CRM (Customer Relationship Management) desktop application built using Java Swing for the user interface and MySQL for data storage. The system allows administrators and sales staff to manage users, customers, sales orders, and transactions effectively.
+## Customer_Realtionship_Management-System
+- This is a Java-based CRM (Customer Relationship Management) desktop application built using Java Swing for the user interface and MySQL for data storage.
+- The system allows administrators and sales staff to manage users, customers, sales orders, and transactions effectively.
 
 
 
 
 
-Features
+## Features
  🔐 User login system with role-based access (Admin, Sales, Manager)
 
  👤 Manage customers and salespeople (with photo & document uploads)
@@ -23,7 +24,7 @@ Features
 
 
 
-Tech Stack
+## Tech Stack
   
     Java Swing (UI)
 
@@ -38,7 +39,7 @@ Tech Stack
 
 
 
-🖥️ How to Run
+## 🖥️ How to Run
 
 
 1.Clone the repository:
@@ -57,7 +58,7 @@ Tech Stack
     Run the crm.sql script from this repo to create tables and sample data.
 
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 CRM_System/
 
